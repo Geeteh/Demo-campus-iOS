@@ -1,6 +1,1 @@
-- *1\. Features Overview*  
-  - 1a. Student Services Page  
-  - 1b. Academics Page  
-  - 1c. Activity Feed Page  
-  - 1d. Campus Map Page  
-  - 1e. Resources Page
+
